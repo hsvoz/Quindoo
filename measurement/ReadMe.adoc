@@ -1,14 +1,15 @@
-:Author: hsvozil
-:Email: svoziljan@centrum.cz
-:Date: 16/01/2022
-:Revision: 1.1.1
+:Author: hsvoz
+:Email: hsvozil@gmail.com
+:Date: 03/02/2022
+:Revision: 1.2.0
 :License: Public Domain
 
-= Project: {Project}
+= Project: Quindoo
 
 Describe your project
 
 == Step 1: Installation
+Device named Quindoo measures current temperature, humidity, carbon dioxide and carbon monoxide levels and stores all measured values on a memory card. 
 Please describe the steps to install this project.
 
 For example:
